@@ -1,2 +1,4 @@
-# ex-chai-testing
-Understand how to do unit TDD with Chai
+FCC Test Challengs Prototype 
+============================
+
+QA with mocha & chai
